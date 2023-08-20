@@ -1,4 +1,4 @@
-# Coursera Assignments
+# Coursera Assignments - Kotlin for Java Developers
 This program is an assignment for the Coursera course 'Kotlin for Java Developers' by Jetbrains.  
 here is the program for another week's assignment:  
 
